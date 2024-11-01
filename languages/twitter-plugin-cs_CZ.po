@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: social-buttons-pack-twitter BWS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-22 12:33+0300\n"
+"PO-Revision-Date: 2024-08-22 12:33+0300\n"
+"Last-Translator: Mik013\n"
+"Language-Team: Mik013\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: includes/class-twttr-settings.php:34 twitter.php:49 twitter.php:535
+#: twitter.php:554
+msgid "Settings"
+msgstr "Nastavení"
+
+#: includes/class-twttr-settings.php:36
+msgid "Display"
+msgstr "Zobrazení"
+
+#: includes/class-twttr-settings.php:39
+msgid "Misc"
+msgstr "Různé"
+
+#: includes/class-twttr-settings.php:40
+msgid "Custom Code"
+msgstr "Vlastní kód"
+
+#: includes/class-twttr-settings.php:41
+msgid "License Key"
+msgstr "Licenční klíč"
+
+#: includes/class-twttr-settings.php:168
+msgid "Sorry, your nonce did not verify."
+msgstr "Omlouváme se, vaše nonce nebyla ověřena."
+
+#: includes/class-twttr-settings.php:276
+msgid "Error: File size > 32K"
+msgstr "Chyba: Velikost souboru > 32K"
+
+#: includes/class-twttr-settings.php:278
+msgid "Error: Invalid file type"
+msgstr "Chyba: Neplatný typ souboru"
+
+#: includes/class-twttr-settings.php:294
+msgid "Error: Failed to move file"
+msgstr "Chyba: Soubor se nepodařilo přesunout"
+
+#: includes/class-twttr-settings.php:297
+msgid "Error: Check image width or height"
+msgstr "Chyba: zkontrolujte šířku nebo výšku obrázku"
+
+#: includes/class-twttr-settings.php:301
+msgid "Uploading Error: Check image properties"
+msgstr "Chyba nahrávání: zkontrolujte vlastnosti obrázku"
+
+#: includes/class-twttr-settings.php:307
+msgid "Settings saved"
+msgstr "Nastavení uloženo"
+
+#: includes/class-twttr-settings.php:319 twitter.php:39 twitter.php:48
+#: twitter.php:245
+msgid "Twitter Settings"
+msgstr "Nastavení Twittru"
+
+#: includes/class-twttr-settings.php:322
+msgid "General"
+msgstr "Obecné"
+
+#: includes/class-twttr-settings.php:325
+msgid "Buttons"
+msgstr "Tlačítka"
+
+#: includes/class-twttr-settings.php:328 twitter.php:330 twitter.php:381
+#: twitter.php:385 twitter.php:486
+msgid "Tweet"
+msgstr "Tweetnout"
+
+#: includes/class-twttr-settings.php:330 twitter.php:487
+msgid "Follow"
+msgstr "Sledovat"
+
+#: includes/class-twttr-settings.php:332 includes/class-twttr-settings.php:510
+#: includes/class-twttr-settings.php:571 twitter.php:488
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: includes/class-twttr-settings.php:334 twitter.php:489
+msgid "Mention"
+msgstr "Zmínit"
+
+#: includes/class-twttr-settings.php:339
+msgid "Buttons Size"
+msgstr "Velikost tlačítek"
+
+#: includes/class-twttr-settings.php:342
+msgid "Small"
+msgstr "Malá"
+
+#: includes/class-twttr-settings.php:343
+msgid "Large"
+msgstr "Velká"
+
+#: includes/class-twttr-settings.php:348
+msgid "Buttons Position"
+msgstr "Umístění tlačítek"
+
+#: includes/class-twttr-settings.php:353
+msgid "Before content"
+msgstr "Před obsahem"
+
+#: includes/class-twttr-settings.php:358
+msgid "After content"
+msgstr "Za obsahem"
+
+#: includes/class-twttr-settings.php:364 includes/class-twttr-settings.php:417
+msgid "Language"
+msgstr "Jazyk"
+
+#: includes/class-twttr-settings.php:366
+msgid "Automatic"
+msgstr "Automaticky"
+
+#: includes/class-twttr-settings.php:373
+msgid "Select the default language for Twitter button(-s)."
+msgstr "Vyberte výchozí jazyk pro Twitter tlačítko/a."
+
+# historie, nebo pribehy
+#: includes/class-twttr-settings.php:377
+msgid "Twitter Tailoring"
+msgstr "Twitter příběhy"
+
+#: includes/class-twttr-settings.php:380
+msgid "Enable tailored suggestions from Twitter."
+msgstr "Povolit doporučené přípěhy od Twitter."
+
+#: includes/class-twttr-settings.php:380
+msgid "Learn More"
+msgstr "Dozvědět se více"
+
+#: includes/class-twttr-settings.php:388 includes/class-twttr-settings.php:674
+#: includes/class-twttr-settings.php:699 includes/class-twttr-settings.php:720
+msgid "Close"
+msgstr "Zavřít"
+
+#: includes/class-twttr-settings.php:390
+msgid "Twitter Timeline"
+msgstr "Twitter Timeline"
+
+#: includes/class-twttr-settings.php:394
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: includes/class-twttr-settings.php:397
+msgid "Enter Twitter account URL to display the timeline"
+msgstr "Zadejte adresu URL účtu Twitter pro zobrazení časové osy"
+
+#: includes/class-twttr-settings.php:401
+msgid "Number Of Tweets"
+msgstr "Počet tweetů"
+
+#: includes/class-twttr-settings.php:404
+msgid ""
+"Enter the number of Tweets which will be displayed on the timeline. Enter "
+"\"0\" to display maximum number"
+msgstr ""
+"Zadejte počet tweetů, které se zobrazí na časové ose. Chcete-li zobrazit "
+"maximální počet, zadejte \"0\""
+
+#: includes/class-twttr-settings.php:408
+msgid "Theme"
+msgstr "Šablona"
+
+#: includes/class-twttr-settings.php:411
+msgid "Light"
+msgstr "Světlý"
+
+#: includes/class-twttr-settings.php:412
+msgid "Dark"
+msgstr "Tmavý"
+
+#: includes/class-twttr-settings.php:425
+msgid "Height"
+msgstr "Výška"
+
+#: includes/class-twttr-settings.php:428
+msgid ""
+"Set a fixed height of the timeline block. The height parameter doesn't work "
+"when a \"Number Of Tweets\" is set to 0."
+msgstr ""
+"Nastavení pevné výšky bloku časové osy. Parametr výšky nefunguje, pokud je "
+"\"Počet tweetů\" nastaven na 0."
+
+#: includes/class-twttr-settings.php:432
+msgid "Width"
+msgstr "Šířka"
+
+#: includes/class-twttr-settings.php:435
+msgid ""
+"Set the maximum width of the timeline block. Set 0 to automatically "
+"determine the width"
+msgstr ""
+"Nastavení maximální šířky bloku časové osy. Nastavte 0 pro automatické "
+"určení šířky"
+
+#: includes/class-twttr-settings.php:439
+msgid "Timeline Design Elements"
+msgstr "Prvky návrhu časové osy"
+
+#: includes/class-twttr-settings.php:442
+msgid "Header"
+msgstr "Hlavička"
+
+#: includes/class-twttr-settings.php:444
+msgid "Footer"
+msgstr "Patička"
+
+#: includes/class-twttr-settings.php:446
+msgid "Borders"
+msgstr "Okraje"
+
+#: includes/class-twttr-settings.php:448
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: includes/class-twttr-settings.php:450
+msgid "Scrollbar"
+msgstr "Posuvník"
+
+#: includes/class-twttr-settings.php:455
+msgid "Border color"
+msgstr "Barva ohraničení"
+
+#: includes/class-twttr-settings.php:459
+msgid "Set the color of borders inside of the timeline block."
+msgstr "Nastavení barvy okrajů uvnitř bloku časové osy."
+
+#: includes/class-twttr-settings.php:469
+msgid "Tweet Button"
+msgstr "Tlačítko Tweetnout"
+
+#: includes/class-twttr-settings.php:472 includes/class-twttr-settings.php:578
+msgid "Share URL"
+msgstr "Sdílet URL"
+
+#: includes/class-twttr-settings.php:475 includes/class-twttr-settings.php:583
+#: includes/class-twttr-settings.php:624
+msgid "Current page"
+msgstr "Aktuální stránka"
+
+#: includes/class-twttr-settings.php:477 includes/class-twttr-settings.php:585
+msgid "Home page"
+msgstr "Domovská stránka"
+
+#: includes/class-twttr-settings.php:483 includes/class-twttr-settings.php:590
+#: includes/class-twttr-settings.php:621
+msgid "Tweet Text"
+msgstr "Text Tweetu"
+
+#: includes/class-twttr-settings.php:487 includes/class-twttr-settings.php:593
+msgid "Current page title"
+msgstr "Nadpis aktuální stránky"
+
+#: includes/class-twttr-settings.php:489 includes/class-twttr-settings.php:533
+#: includes/class-twttr-settings.php:595 includes/class-twttr-settings.php:626
+msgid "Custom"
+msgstr "Vlastní"
+
+#: includes/class-twttr-settings.php:496
+msgid "Via"
+msgstr "Via"
+
+#: includes/class-twttr-settings.php:499
+msgid "Enter username for Tweet via parameter."
+msgstr "Zadejte uživatelské jméno pro parametr Tweet via."
+
+#: includes/class-twttr-settings.php:503 includes/class-twttr-settings.php:602
+#: includes/class-twttr-settings.php:633
+msgid "Recommend"
+msgstr "Doporučit"
+
+#: includes/class-twttr-settings.php:506 includes/class-twttr-settings.php:605
+#: includes/class-twttr-settings.php:636
+msgid ""
+"Enter usernames of someone you recommend (maximum 2 allowed). For example: "
+"bestwebsoft, wordpress."
+msgstr ""
+"Zadejte uživatelská jména která doporučujete (povoleny jsou maximálně 2). "
+"Například: bestwebsoft, wordpress."
+
+#: includes/class-twttr-settings.php:513 includes/class-twttr-settings.php:574
+msgid ""
+"Enter one or multiple hashtags for your tweet. For example: bestwebsoft, "
+"wordpress, etc."
+msgstr ""
+"Zadejte jeden nebo více hashtagů pro vaše tweety. Například: bestwebsoft, "
+"wordpress, atd."
+
+#: includes/class-twttr-settings.php:517
+msgid "Follow Button"
+msgstr "Tlačítko Sledovat"
+
+#: includes/class-twttr-settings.php:520
+msgid "Twitter username"
+msgstr "Uživatelské jméno Twitter"
+
+#: includes/class-twttr-settings.php:523
+#, php-format
+msgid "Enter your Twitter account username or %1$s create a new one %2$s."
+msgstr ""
+"Zadejte své uživatelské jméno účtu Twitter nebo %1$s vytvořte nové %2$s."
+
+#: includes/class-twttr-settings.php:527
+msgid "Follow Button Image"
+msgstr "Obrázek tlačítka Sledovat"
+
+#: includes/class-twttr-settings.php:531
+msgid "Default"
+msgstr "Výchozí"
+
+#: includes/class-twttr-settings.php:538
+#, php-format
+msgid ""
+"To use custom image, You need to setup permissions to upload directory of "
+"your site - %s"
+msgstr ""
+"Pro použití vlastního obrázku, musíte nastavit oprávnění ke složce upload "
+"vašho webu- %s"
+
+#: includes/class-twttr-settings.php:555
+#, php-format
+msgid ""
+"Upload image with the %1$s dimensions, JPG, JPEG or PNG formats (maximum "
+"file size - %2$s)."
+msgstr ""
+"Nahrajte obrázek s rozměry %1$s, ve formátu JPG, JPEG nebo PNG (maximální "
+"velikost souboru - %2$s)."
+
+#: includes/class-twttr-settings.php:560
+msgid "Show Follow Button"
+msgstr "Zobrazit tlačítko Sledovat"
+
+#: includes/class-twttr-settings.php:563
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: includes/class-twttr-settings.php:568
+msgid "Hashtag Button"
+msgstr "Tlačítko Hashtag"
+
+#: includes/class-twttr-settings.php:581
+msgid "None"
+msgstr "Žádná"
+
+#: includes/class-twttr-settings.php:609
+msgid "Mention Button"
+msgstr "Tlačítko Zmínit"
+
+#: includes/class-twttr-settings.php:613 twitter.php:402
+msgid "Tweet to"
+msgstr "Tweet pro"
+
+#: includes/class-twttr-settings.php:617
+msgid "Enter username of someone you want to mention."
+msgstr "Vložte jméno uživatele, kterého chcete zmínit."
+
+#: includes/class-twttr-settings.php:617
+#, php-format
+msgid "For example, %s."
+msgstr "Například, %s."
+
+#: includes/class-twttr-settings.php:662
+msgid "Twitter Shortcode"
+msgstr "Zkratka Twitteru"
+
+#: includes/class-twttr-settings.php:666
+msgid ""
+"Add Twitter button(-s) to your posts, pages, custom post types or widgets by "
+"using the following shortcode:"
+msgstr ""
+"Přidat Twitter tlačítko/a do příspěvků, stránek, vlastních typů příspěvků "
+"nebo widgetů pomocí následujícího zkráceného kódu:"
+
+#: includes/class-twttr-settings.php:677
+msgid ""
+"Add Twitter timeline to your posts, pages, custom post types or widgets by "
+"using the following shortcode:"
+msgstr ""
+"Přidejte časovou osu Twitteru do příspěvků, stránek, vlastních typů "
+"příspěvků nebo widgetů pomocí následujícího zkratkového kódu:"
+
+#: includes/class-twttr-settings.php:700
+msgid "Twitter Buttons Preview"
+msgstr "Náhled Twitter tlačítek"
+
+#: includes/class-twttr-settings.php:721
+msgid "Twitter Timeline Preview"
+msgstr "Náhled časové osy Twitteru"
+
+#: includes/class-twttr-settings.php:737
+msgid "Display Settings"
+msgstr "Nastavení zobrazení"
+
+#: includes/class-twttr-settings.php:746
+msgid ""
+"Choose the necessary post types (or single pages) where Twitter buttons will "
+"be displayed:"
+msgstr ""
+"Vyberte potřebné typy příspěvků (nebo jednotlivé stránky), na kterých se "
+"budou zobrazovat tlačítka Twitteru:"
+
+#: includes/class-twttr-settings.php:753
+msgid "Show URL for pages"
+msgstr "Zobrazovat URL pro stránky"
+
+#: includes/class-twttr-settings.php:759
+msgid "Example of the site's pages tree"
+msgstr "Příklad stromu webu"
+
+#: includes/class-twttr-settings.php:759
+msgid "Example of site pages' tree"
+msgstr "Příklad stromu stránek webu"
+
+#: twitter.php:65
+msgid "Upgrade to Pro"
+msgstr "Aktualizovat na Pro"
+
+#: twitter.php:246
+msgid "Please enable JavaScript in Your browser."
+msgstr "Prosím, povolte JavaScript ve vašem prohlížeči."
+
+#: twitter.php:347 twitter.php:351
+msgid "Follow me"
+msgstr "Sledovat mě"
+
+# historie, nebo pribehy
+#: twitter.php:360
+msgid "TwitterStories"
+msgstr "TwitterPribehy"
+
+#: twitter.php:485
+msgid "Please select twitter buttons which will be displayed"
+msgstr "Prosím, vyberte Twitter tlačítka, která budou zobrazena"
+
+#: twitter.php:556
+msgid "FAQ"
+msgstr ""
+"Časté dotazy <acronym title=\"Frequently asked questions\">(FAQ)</acronym>"
+
+#: twitter.php:557
+msgid "Support"
+msgstr "Podpora"
+
+#~ msgid "Current image"
+#~ msgstr "Aktuální obrázek"
+
+#~ msgid "Count"
+#~ msgstr "Počet"

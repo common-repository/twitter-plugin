@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-05-23 17:58+0300\n"
+"PO-Revision-Date: 2024-05-23 18:06+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: includes/class-twttr-settings.php:34 twitter.php:49 twitter.php:535
+#: twitter.php:554
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/class-twttr-settings.php:36
+msgid "Display"
+msgstr "Display"
+
+#: includes/class-twttr-settings.php:39
+msgid "Misc"
+msgstr "Varie"
+
+#: includes/class-twttr-settings.php:40
+msgid "Custom Code"
+msgstr "Codice personalizzato"
+
+#: includes/class-twttr-settings.php:41
+msgid "License Key"
+msgstr "Chiave di licenza"
+
+#: includes/class-twttr-settings.php:168
+msgid "Sorry, your nonce did not verify."
+msgstr "Ci dispiace, autorizzazione non verificata."
+
+#: includes/class-twttr-settings.php:276
+msgid "Error: File size > 32K"
+msgstr "Errore: Dimensione del file > 32K"
+
+#: includes/class-twttr-settings.php:278
+msgid "Error: Invalid file type"
+msgstr "Errore: Tipo di file non valido"
+
+#: includes/class-twttr-settings.php:294
+msgid "Error: Failed to move file"
+msgstr "Errore: Impossibile spostare il file"
+
+#: includes/class-twttr-settings.php:297
+msgid "Error: Check image width or height"
+msgstr "Errore: Controllare la larghezza o l'altezza dell'immagine"
+
+#: includes/class-twttr-settings.php:301
+msgid "Uploading Error: Check image properties"
+msgstr "Errore di caricamento: Controllare le proprietà dell'immagine"
+
+#: includes/class-twttr-settings.php:307
+msgid "Settings saved"
+msgstr "Impostazioni salvate"
+
+#: includes/class-twttr-settings.php:319 twitter.php:39 twitter.php:48
+#: twitter.php:245
+msgid "Twitter Settings"
+msgstr "Impostazioni Twitter"
+
+#: includes/class-twttr-settings.php:322
+msgid "General"
+msgstr "Generale"
+
+#: includes/class-twttr-settings.php:325
+msgid "Buttons"
+msgstr "Pulsanti"
+
+#: includes/class-twttr-settings.php:328 twitter.php:330 twitter.php:381
+#: twitter.php:385 twitter.php:486
+msgid "Tweet"
+msgstr "Tweet"
+
+#: includes/class-twttr-settings.php:330 twitter.php:487
+msgid "Follow"
+msgstr "Segui"
+
+#: includes/class-twttr-settings.php:332 includes/class-twttr-settings.php:510
+#: includes/class-twttr-settings.php:571 twitter.php:488
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: includes/class-twttr-settings.php:334 twitter.php:489
+msgid "Mention"
+msgstr "Menziona"
+
+#: includes/class-twttr-settings.php:339
+msgid "Buttons Size"
+msgstr "Dimensioni pulsanti"
+
+#: includes/class-twttr-settings.php:342
+msgid "Small"
+msgstr "Piccolo"
+
+#: includes/class-twttr-settings.php:343
+msgid "Large"
+msgstr "Grande"
+
+#: includes/class-twttr-settings.php:348
+msgid "Buttons Position"
+msgstr "Pulsanti Posizione"
+
+#: includes/class-twttr-settings.php:353
+msgid "Before content"
+msgstr "Prima del contenuto"
+
+#: includes/class-twttr-settings.php:358
+msgid "After content"
+msgstr "Dopo il contenuto"
+
+#: includes/class-twttr-settings.php:364 includes/class-twttr-settings.php:417
+msgid "Language"
+msgstr "Lingua"
+
+#: includes/class-twttr-settings.php:366
+msgid "Automatic"
+msgstr "Automatico"
+
+#: includes/class-twttr-settings.php:373
+msgid "Select the default language for Twitter button(-s)."
+msgstr "Selezioni la lingua predefinita per i pulsanti di Twitter."
+
+#: includes/class-twttr-settings.php:377
+msgid "Twitter Tailoring"
+msgstr "Twitter Tailoring"
+
+#: includes/class-twttr-settings.php:380
+msgid "Enable tailored suggestions from Twitter."
+msgstr "Abilita i suggerimenti personalizzati di Twitter."
+
+#: includes/class-twttr-settings.php:380
+#, fuzzy
+msgid "Learn More"
+msgstr "Per saperne di più"
+
+#: includes/class-twttr-settings.php:388 includes/class-twttr-settings.php:674
+#: includes/class-twttr-settings.php:699 includes/class-twttr-settings.php:720
+msgid "Close"
+msgstr "Chiudere"
+
+#: includes/class-twttr-settings.php:390
+msgid "Twitter Timeline"
+msgstr "Timeline di Twitter"
+
+#: includes/class-twttr-settings.php:394
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: includes/class-twttr-settings.php:397
+msgid "Enter Twitter account URL to display the timeline"
+msgstr "Inserisca l'URL dell'account Twitter per visualizzare la timeline"
+
+#: includes/class-twttr-settings.php:401
+msgid "Number Of Tweets"
+msgstr "Numero di tweets"
+
+#: includes/class-twttr-settings.php:404
+msgid ""
+"Enter the number of Tweets which will be displayed on the timeline. Enter "
+"\"0\" to display maximum number"
+msgstr ""
+"Inserisca il numero di Tweet che verranno visualizzati sulla timeline. "
+"Inserisca \"0\" per visualizzare il numero massimo"
+
+#: includes/class-twttr-settings.php:408
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/class-twttr-settings.php:411
+msgid "Light"
+msgstr "Chiaro"
+
+#: includes/class-twttr-settings.php:412
+msgid "Dark"
+msgstr "Scuro"
+
+#: includes/class-twttr-settings.php:425
+msgid "Height"
+msgstr "Altezza"
+
+#: includes/class-twttr-settings.php:428
+msgid ""
+"Set a fixed height of the timeline block. The height parameter doesn't work "
+"when a \"Number Of Tweets\" is set to 0."
+msgstr ""
+"Imposta un'altezza fissa del blocco della timeline. Il parametro "
+"dell'altezza non funziona quando il \"Numero di tweet\" è impostato su 0."
+
+#: includes/class-twttr-settings.php:432
+msgid "Width"
+msgstr "Larghezza"
+
+#: includes/class-twttr-settings.php:435
+msgid ""
+"Set the maximum width of the timeline block. Set 0 to automatically "
+"determine the width"
+msgstr ""
+"Imposta la larghezza massima del blocco della timeline. Impostare 0 per "
+"determinare automaticamente la larghezza"
+
+#: includes/class-twttr-settings.php:439
+msgid "Timeline Design Elements"
+msgstr "Elementi di design della linea temporale"
+
+#: includes/class-twttr-settings.php:442
+msgid "Header"
+msgstr "Header"
+
+#: includes/class-twttr-settings.php:444
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/class-twttr-settings.php:446
+msgid "Borders"
+msgstr "Bordi"
+
+#: includes/class-twttr-settings.php:448
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+#: includes/class-twttr-settings.php:450
+msgid "Scrollbar"
+msgstr "Barra di scorrimento"
+
+#: includes/class-twttr-settings.php:455
+msgid "Border color"
+msgstr "Colore del bordo"
+
+#: includes/class-twttr-settings.php:459
+msgid "Set the color of borders inside of the timeline block."
+msgstr "Imposta il colore dei bordi all'interno del blocco della timeline."
+
+#: includes/class-twttr-settings.php:469
+msgid "Tweet Button"
+msgstr "Bottone Tweet"
+
+#: includes/class-twttr-settings.php:472 includes/class-twttr-settings.php:578
+msgid "Share URL"
+msgstr "URL Condivisione"
+
+#: includes/class-twttr-settings.php:475 includes/class-twttr-settings.php:583
+#: includes/class-twttr-settings.php:624
+msgid "Current page"
+msgstr "Pagina corrente"
+
+#: includes/class-twttr-settings.php:477 includes/class-twttr-settings.php:585
+msgid "Home page"
+msgstr "Home Page"
+
+#: includes/class-twttr-settings.php:483 includes/class-twttr-settings.php:590
+#: includes/class-twttr-settings.php:621
+msgid "Tweet Text"
+msgstr "Tweet Testo"
+
+#: includes/class-twttr-settings.php:487 includes/class-twttr-settings.php:593
+msgid "Current page title"
+msgstr "Titolo della pagina corrente"
+
+#: includes/class-twttr-settings.php:489 includes/class-twttr-settings.php:533
+#: includes/class-twttr-settings.php:595 includes/class-twttr-settings.php:626
+msgid "Custom"
+msgstr "Personalizzato"
+
+#: includes/class-twttr-settings.php:496
+msgid "Via"
+msgstr "Tramite"
+
+#: includes/class-twttr-settings.php:499
+msgid "Enter username for Tweet via parameter."
+msgstr "Inserisca il nome utente per Tweet tramite il parametro."
+
+#: includes/class-twttr-settings.php:503 includes/class-twttr-settings.php:602
+#: includes/class-twttr-settings.php:633
+msgid "Recommend"
+msgstr "Raccomandato"
+
+#: includes/class-twttr-settings.php:506 includes/class-twttr-settings.php:605
+#: includes/class-twttr-settings.php:636
+msgid ""
+"Enter usernames of someone you recommend (maximum 2 allowed). For example: "
+"bestwebsoft, wordpress."
+msgstr ""
+"Inserisca i nomi utente di qualcuno che raccomanda (sono consentiti al "
+"massimo 2 nomi). Ad esempio: bestwebsoft, wordpress."
+
+#: includes/class-twttr-settings.php:513 includes/class-twttr-settings.php:574
+msgid ""
+"Enter one or multiple hashtags for your tweet. For example: bestwebsoft, "
+"wordpress, etc."
+msgstr ""
+"Inserisca uno o più hashtag per il suo tweet. Ad esempio: bestwebsoft, "
+"wordpress, ecc."
+
+#: includes/class-twttr-settings.php:517
+msgid "Follow Button"
+msgstr "Pulsante Segui"
+
+#: includes/class-twttr-settings.php:520
+msgid "Twitter username"
+msgstr "Nome utente di Twitter"
+
+#: includes/class-twttr-settings.php:523
+#, php-format
+msgid "Enter your Twitter account username or %1$s create a new one %2$s."
+msgstr ""
+"Inserisca il nome utente del suo account Twitter o %1$s ne crei uno nuovo "
+"%2$s."
+
+#: includes/class-twttr-settings.php:527
+msgid "Follow Button Image"
+msgstr "Immagine del pulsante Segui"
+
+#: includes/class-twttr-settings.php:531
+msgid "Default"
+msgstr "Predefinito"
+
+#: includes/class-twttr-settings.php:538
+#, php-format
+msgid ""
+"To use custom image, You need to setup permissions to upload directory of "
+"your site - %s"
+msgstr ""
+"Per utilizzare un'immagine personalizzata, deve impostare i permessi per la "
+"directory di upload del suo sito - %s"
+
+#: includes/class-twttr-settings.php:555
+#, php-format
+msgid ""
+"Upload image with the %1$s dimensions, JPG, JPEG or PNG formats (maximum "
+"file size - %2$s)."
+msgstr ""
+"Carichi l'immagine con le dimensioni %1$s, nei formati JPG, JPEG o PNG "
+"(dimensione massima del file - %2$s)."
+
+#: includes/class-twttr-settings.php:560
+msgid "Show Follow Button"
+msgstr "Mostra il pulsante Segui"
+
+#: includes/class-twttr-settings.php:563
+msgid "Username"
+msgstr "Nome utente"
+
+#: includes/class-twttr-settings.php:568
+msgid "Hashtag Button"
+msgstr "Pulsante Hashtag"
+
+#: includes/class-twttr-settings.php:581
+msgid "None"
+msgstr "Nessuna"
+
+#: includes/class-twttr-settings.php:609
+msgid "Mention Button"
+msgstr "Pulsante Menzione"
+
+#: includes/class-twttr-settings.php:613 twitter.php:402
+msgid "Tweet to"
+msgstr "Tweet a"
+
+#: includes/class-twttr-settings.php:617
+msgid "Enter username of someone you want to mention."
+msgstr "Inserisca il nome utente della persona che desidera menzionare."
+
+#: includes/class-twttr-settings.php:617
+#, php-format
+msgid "For example, %s."
+msgstr "Ad esempio, %s."
+
+#: includes/class-twttr-settings.php:662
+msgid "Twitter Shortcode"
+msgstr "Codice breve di Twitter"
+
+#: includes/class-twttr-settings.php:666
+msgid ""
+"Add Twitter button(-s) to your posts, pages, custom post types or widgets by "
+"using the following shortcode:"
+msgstr ""
+"Aggiunga il/i pulsante/i di Twitter ai suoi post, pagine, tipi di post "
+"personalizzati o widget utilizzando il seguente shortcode:"
+
+#: includes/class-twttr-settings.php:677
+msgid ""
+"Add Twitter timeline to your posts, pages, custom post types or widgets by "
+"using the following shortcode:"
+msgstr ""
+"Aggiunga la timeline di Twitter ai suoi post, pagine, tipi di post "
+"personalizzati o widget utilizzando il seguente shortcode:"
+
+#: includes/class-twttr-settings.php:700
+msgid "Twitter Buttons Preview"
+msgstr "Anteprima dei pulsanti di Twitter"
+
+#: includes/class-twttr-settings.php:721
+msgid "Twitter Timeline Preview"
+msgstr "Anteprima della Timeline di Twitter"
+
+#: includes/class-twttr-settings.php:737
+msgid "Display Settings"
+msgstr "Impostazioni del display"
+
+#: includes/class-twttr-settings.php:746
+msgid ""
+"Choose the necessary post types (or single pages) where Twitter buttons will "
+"be displayed:"
+msgstr ""
+"Scelga i tipi di post necessari (o le singole pagine) in cui verranno "
+"visualizzati i pulsanti di Twitter:"
+
+#: includes/class-twttr-settings.php:753
+msgid "Show URL for pages"
+msgstr "Mostra l'URL per le pagine"
+
+#: includes/class-twttr-settings.php:759
+msgid "Example of the site's pages tree"
+msgstr "Esempio di albero delle pagine del sito"
+
+#: includes/class-twttr-settings.php:759
+msgid "Example of site pages' tree"
+msgstr "Esempio di albero delle pagine del sito"
+
+#: twitter.php:65
+msgid "Upgrade to Pro"
+msgstr "Aggiornamento a Pro"
+
+#: twitter.php:246
+msgid "Please enable JavaScript in Your browser."
+msgstr "Abiliti JavaScript nel suo browser."
+
+#: twitter.php:347 twitter.php:351
+msgid "Follow me"
+msgstr "Seguimi"
+
+#: twitter.php:360
+msgid "TwitterStories"
+msgstr "TwitterStories"
+
+#: twitter.php:485
+msgid "Please select twitter buttons which will be displayed"
+msgstr "Selezioni i pulsanti di twitter che verranno visualizzati"
+
+#: twitter.php:556
+msgid "FAQ"
+msgstr "FAQ"
+
+#: twitter.php:557
+msgid "Support"
+msgstr "Supporto"
